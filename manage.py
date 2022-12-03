@@ -2,6 +2,7 @@
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
+sys.path.insert(0, '/home/salah/.local/bin')
 
 
 def main():
